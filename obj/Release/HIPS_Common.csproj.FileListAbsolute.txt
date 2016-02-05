@@ -1,0 +1,23 @@
+C:\Documents and Settings\kawamoto\Local Settings\Application Data\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Documents and Settings\kawamoto\Local Settings\Application Data\Temporary Projects\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Documents and Settings\kawamoto\Local Settings\Application Data\Temporary Projects\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kawamoto\Local Settings\Application Data\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Documents and Settings\kawamoto\Local Settings\Application Data\Temporary Projects\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\kawamoto\C#\HIPS_Common\bin\Release\HIPS_Common.dll
+C:\Users\kawamoto\C#\HIPS_Common\bin\Release\HIPS_Common.pdb
+C:\Users\kawamoto\C#\HIPS_Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kawamoto\C#\HIPS_Common\obj\Release\HIPS_Common.dll
+C:\Users\kawamoto\C#\HIPS_Common\obj\Release\HIPS_Common.pdb
+C:\Users\kawamoto\C#\KIPS\99_common\bin\Release\HIPS_Common.dll
+C:\Users\kawamoto\C#\KIPS\99_common\bin\Release\HIPS_Common.pdb
+C:\Users\kawamoto\C#\KIPS\99_common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\kawamoto\C#\KIPS\99_common\obj\Release\HIPS_Common.dll
+C:\Users\kawamoto\C#\KIPS\99_common\obj\Release\HIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\bin\Release\HIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\bin\Release\HIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KIPS\SRC\99_common\obj\Release\HIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\obj\Release\HIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.DbConnectForm.resources
+C:\Users\KIPS\SRC\99_common\obj\Release\GenerateResource.read.1.tlog
+C:\Users\KIPS\SRC\99_common\obj\Release\GenerateResource.write.1.tlog

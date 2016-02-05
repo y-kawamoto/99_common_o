@@ -1,0 +1,53 @@
+C:\Users\KIPS\SRC\99_common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KIPS\SRC\99_common\bin\Release\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\bin\Release\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.DbConnectDialog.resources
+C:\Users\KIPS\SRC\99_common_2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KIPS\SRC\99_common_2\obj\Release\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\KIPS\SRC\99_common_2\obj\Release\KIPS_Common.DbConnectDialog.resources
+C:\Users\KIPS\SRC\99_common_2\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\KIPS\SRC\99_common_2\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\KIPS\SRC\99_common_2\obj\Release\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common_2\bin\Release\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common_2\bin\Release\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common_2\obj\Release\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\KIPS\SRC\99_common\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.Properties.Resources.resources
+C:\Users\KIPS\SRC\99_common\obj\Release\KIPS_Common.dll.licenses
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.DbConnectDialog.resources
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.Properties.Resources.resources
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.csproj.GenerateResource.Cache
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.dll.licenses
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Release\KIPS_Common.pdb
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Release\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Release\KIPS_Common.pdb
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Release\Oracle.DataAccess.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\KIPS_Common.pdb
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.CalcEngine.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Excel.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.PDF.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.PluginCalendar.WinForms.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.Chart.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.SpreadJ.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\Oracle.DataAccess.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.CalcEngine.xml
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Excel.xml
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.xml
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.Chart.xml
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\bin\Release\FarPoint.Win.SpreadJ.xml
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.csprojResolveAssemblyReference.cache
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.DbConnectDialog.resources
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.Properties.Resources.resources
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.csproj.GenerateResource.Cache
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.dll.licenses
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2015\Projects\KIPS\SRC\99_common_o\obj\Release\KIPS_Common.pdb

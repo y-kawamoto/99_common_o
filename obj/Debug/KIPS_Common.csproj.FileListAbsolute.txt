@@ -1,0 +1,20 @@
+C:\Users\KIPS\SRC\99_common\bin\Debug\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\bin\Debug\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KIPS\SRC\99_common\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\KIPS\SRC\99_common\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\KIPS\SRC\99_common\obj\Debug\KIPS_Common.dll
+C:\Users\KIPS\SRC\99_common\obj\Debug\KIPS_Common.pdb
+C:\Users\KIPS\SRC\99_common\obj\Debug\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\KIPS\SRC\99_common\obj\Debug\KIPS_Common.DbConnectDialog.resources
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Debug\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Debug\KIPS_Common.pdb
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.csproj.ResolveComReference.cache
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.DbConnectDialog.resources
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.Properties.Resources.resources
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.csproj.GenerateResource.Cache
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.dll.licenses
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.dll
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.pdb
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\bin\Debug\Oracle.DataAccess.dll
+C:\Users\kawamoto\Documents\Visual Studio 2013\Projects\KIPS\SRC\99_common\obj\Debug\KIPS_Common.csprojResolveAssemblyReference.cache
